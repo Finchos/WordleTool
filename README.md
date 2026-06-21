@@ -18,3 +18,6 @@ Elegantní a rychlý pomocník pro hru Wordle s moderním grafickým rozhraním.
 2. Nainstaluj potřebnou knihovnu pro GUI:
    ```bash
    pip install customtkinter
+3. Spusť příkaz:
+   ```bash
+   python3 gui.py
