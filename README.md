@@ -4,7 +4,7 @@ Elegantní a rychlý pomocník pro hru Wordle s moderním grafickým rozhraním.
 
 ## ✨ Klíčové funkce
 
-* **Chytrý mozek (Minimax):** Kalkuluje neprůstřelný další tah nezávisle na tom, jak zákeřná tajenka je.
+* **Solver::** Kalkuluje neprůstřelný další tah nezávisle na tom, jak zákeřná tajenka je.
 * **Moderní GUI:** Postaveno na frameworku `CustomTkinter` s plnou podporou Dark Mode a responzivním designem.
 * **Intuitivní ovládání:** * Podpora globální klávesnice – slova prostě píšeš a mažeš jako ve skutečné hře.
   * Změna barev (šedá ➔ žlutá ➔ zelená) probíhá pouhým kliknutím na políčko.
@@ -14,9 +14,6 @@ Elegantní a rychlý pomocník pro hru Wordle s moderním grafickým rozhraním.
 
 ## 🚀 Jak to spustit
 
-Máš dvě možnosti, jak aplikaci používat:
-
-### Možnost 1: Spuštění ze zdrojového kódu (pro vývojáře)
 1. Ujisti se, že máš nainstalovaný Python 3.8 a novější.
 2. Nainstaluj potřebnou knihovnu pro GUI:
    ```bash
