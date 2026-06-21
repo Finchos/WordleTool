@@ -1,0 +1,1 @@
+([('gui', '/Users/simon/PycharmProjects/WordleTool/dist/gui', 'EXECUTABLE')],)
